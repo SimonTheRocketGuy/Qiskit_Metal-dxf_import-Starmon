@@ -1,0 +1,168 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$INSUNITS
+  70
+9
+  9
+$EXTMIN
+  10
+-31
+  20
+-67
+  9
+$EXTMAX
+  10
+16
+  20
+-64
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+  70
+1
+  0
+LTYPE
+  2
+CONTINUOUS
+  70
+64
+  3
+Solid line
+  72
+65
+  73
+0
+  40
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  70
+1
+  0
+LAYER
+  2
+NA
+  70
+0
+  62
+136
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+NA
+  70
+0
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+16
+  20
+-64
+  0
+VERTEX
+  8
+NA
+  10
+-21
+  20
+-64
+  0
+VERTEX
+  8
+NA
+  10
+-28
+  20
+-65
+  0
+VERTEX
+  8
+NA
+  10
+-31
+  20
+-65
+  0
+VERTEX
+  8
+NA
+  10
+-31
+  20
+-66
+  0
+VERTEX
+  8
+NA
+  10
+-28
+  20
+-66
+  0
+VERTEX
+  8
+NA
+  10
+-21
+  20
+-67
+  0
+VERTEX
+  8
+NA
+  10
+16
+  20
+-67
+  0
+VERTEX
+  8
+NA
+  10
+16
+  20
+-64
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF
